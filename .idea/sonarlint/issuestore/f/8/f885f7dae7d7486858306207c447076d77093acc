@@ -1,0 +1,40 @@
+
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(òøôÊ
+L
+java:S2629B"7Use the built-in formatting to construct this argument.(¹Ø«
+M
+java:S2629M"7Use the built-in formatting to construct this argument.(òŞŠÌ
+M
+java:S2629\"7Use the built-in formatting to construct this argument.(Èºš©
+L
+java:S2629i"7Use the built-in formatting to construct this argument.(ÌÊt
+H
+java:S2789["2Replace this null literal by an "Optional" object.(‰µİ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãù¼3
+¤
+java:S4449:"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(¾ûô¾üÿÿÿÿ
+[
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(§ù’üÿÿÿÿ
+V
+java:S3457B"AFormat specifiers should be used instead of string concatenation.(¹Ø«
+P
+java:S1854N":Remove this useless assignment to local variable "client".(»ÎĞ†
+W
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(òŞŠÌ
+A
+java:S1481N"+Remove this unused "client" local variable.(»ÎĞ†
+\
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(ÛÒû­ùÿÿÿÿ
+@
+java:S1481["*Remove this unused "admin" local variable.(‰µİ
+W
+java:S3457\"AFormat specifiers should be used instead of string concatenation.(Èºš©
+V
+java:S4684h"@Replace this persistent entity with a simple POJO or DTO object.(Êâö
+V
+java:S3457i"AFormat specifiers should be used instead of string concatenation.(ÌÊt
+N
+java:S1128"3Remove this unused import 'com.cg.App.model.Admin'.(±’Ì°ıÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'com.cg.App.model.Product'.(ŞÜ“Á
